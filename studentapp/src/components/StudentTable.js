@@ -1,8 +1,8 @@
-import '..assets/css/compo.css'
+import '..assests/css/compo.css';
 export default function StudentTable(props){
     return(
         <div className="outerDiv">
-          <div className='leftDiv'>
+          <div className="leftDiv">
             <table>
                 <thead>
                     <tr>
