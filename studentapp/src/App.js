@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import {student} from './data/StudentDb';
+import {students} from './data/StudentDb';
 import StudentTable from './components/StudentTable';
 function App() {
   return (
